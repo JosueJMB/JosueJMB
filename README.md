@@ -1,10 +1,14 @@
-## Hi there 👋
-
-
-**JosueJMB/JosueJMB** 
 <hr>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=601DF7&random=true&width=445&height=55&lines=Computer+science.;Always+learning+new+things." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=1834F7&center=true&vCenter=true&width=435&lines=+%F0%9F%AB%A1%F0%9F%98%8EHi+there+%F0%9F%98%8E%F0%9F%AB%A1" alt="Typing SVG" /></a>
+  <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=1834F7&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9C%A8%E2%9C%A8%E2%9C%A8%E2%9C%A8%E2%9C%A8%E2%9C%A8JosueJMB%2FJosueJMB+%E2%9C%A8%E2%9C%A8%E2%9C%A8%E2%9C%A8%E2%9C%A8%E2%9C%A8" alt="Typing SVG" /></a>
+</p>
+
+
+<hr>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=1000&color=1A09F7&background=332BFF00&center=true&vCenter=true&random=true&width=445&height=55&lines=Computer+science.;Always+learning+new+things.;Encoding" alt="Typing SVG" /></a>
 </p>
 <hr>
 
